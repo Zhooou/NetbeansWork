@@ -1,0 +1,501 @@
+Serial Number,time,departure,arrival
+AA0102,11/1/18 01:34,Shanghai,Boston
+AA1350,11/1/18 02:47,Boston,Shanghai
+AA1387,11/1/18 06:33,New York,Boston
+AA1388,11/1/18 09:27,Tokyo,New York
+AA1587,11/1/18 13:26,Toronto,Tokyo
+AA2144,11/1/18 14:24,London,Toronto
+AA2150,11/1/18 16:48,Paris,London
+AA2166,11/1/18 21:19,Seattle,Paris
+AA2331,11/1/18 22:54,Chicago,Seattle
+AA3809,11/1/18 23:33,Cancun,Chicago
+AA4103,11/2/18 01:14,Orlando,Cancun
+AA4527,11/2/18 06:38,Shanghai,Orlando
+AA4539,11/2/18 08:11,Boston,Shanghai
+AA4713,11/2/18 08:34,New York,Boston
+AA4780,11/2/18 10:13,Tokyo,Seattle
+AA4793,11/2/18 11:00,Toronto,Chicago
+AA4986,11/2/18 13:52,London,Cancun
+AA5247,11/2/18 14:49,Paris,Orlando
+AA5394,11/2/18 19:51,Seattle,Shanghai
+AA5486,11/3/18 03:33,Chicago,Boston
+AA5748,11/3/18 07:53,Cancun,New York
+AA6161,11/3/18 07:55,Orlando,Tokyo
+AA6699,11/3/18 07:56,Shanghai,Toronto
+AA6834,11/3/18 13:22,Boston,London
+AA6836,11/3/18 21:02,New York,Paris
+AA7390,11/3/18 22:04,Tokyo,Seattle
+AA7869,11/3/18 22:44,Toronto,Chicago
+AA8510,11/3/18 23:17,London,Cancun
+AA8794,11/4/18 03:07,Paris,Orlando
+AA9002,11/4/18 05:33,Seattle,Toronto
+AA9019,11/4/18 05:45,Chicago,London
+AA9527,11/4/18 10:57,Cancun,Paris
+AA9594,11/4/18 11:00,Orlando,Seattle
+AA9778,11/4/18 11:54,Toronto,Boston
+DL0017,11/4/18 13:00,London,Shanghai
+DL1134,11/4/18 13:10,Paris,Boston
+DL1145,11/4/18 13:12,Seattle,New York
+DL1338,11/4/18 20:07,Chicago,Tokyo
+DL1977,11/4/18 23:20,Cancun,Toronto
+DL2110,11/5/18 00:52,Orlando,London
+DL3397,11/5/18 00:54,Shanghai,Paris
+DL4442,11/5/18 04:23,Boston,Seattle
+DL4654,11/5/18 10:10,New York,Chicago
+DL4957,11/5/18 11:10,Tokyo,Cancun
+DL5050,11/5/18 14:57,Toronto,Orlando
+DL5169,11/5/18 23:17,Tokyo,Shanghai
+DL5223,11/6/18 00:13,Toronto,Boston
+DL5719,11/6/18 01:53,London,Seattle
+DL5991,11/6/18 04:59,Paris,Chicago
+DL6129,11/6/18 07:01,Seattle,Cancun
+DL6459,11/6/18 07:44,Chicago,Orlando
+UA6603,11/6/18 13:56,Cancun,Shanghai
+DL6976,11/6/18 19:14,Orlando,Boston
+DL7014,11/6/18 22:13,Toronto,New York
+DL7174,11/7/18 01:59,London,Tokyo
+DL7422,11/7/18 05:40,Paris,Toronto
+DL8057,11/7/18 12:59,Seattle,London
+DL8157,11/7/18 17:33,Chicago,Paris
+DL8450,11/7/18 22:28,Chicago,Seattle
+DL8485,11/7/18 23:07,Cancun,Chicago
+DL8776,11/8/18 02:40,Orlando,Cancun
+DL9115,11/8/18 03:51,Shanghai,Chicago
+DL9731,11/8/18 04:03,Boston,Cancun
+DL8117,11/8/18 04:06,New York,Orlando
+UA0648,11/8/18 08:37,Tokyo,Toronto
+UA0657,11/8/18 09:37,Toronto,London
+UA1477,11/8/18 15:35,London,Paris
+UA1736,11/8/18 15:39,Paris,Seattle
+UA2162,11/8/18 17:29,Seattle,Boston
+UA2220,11/8/18 22:35,Chicago,Shanghai
+UA2263,11/9/18 02:52,Cancun,Boston
+UA2305,11/9/18 03:04,Orlando,New York
+UA2447,11/9/18 04:22,Toronto,Tokyo
+UA2574,11/9/18 11:00,London,Toronto
+UA3654,11/9/18 15:41,Paris,London
+UA3879,11/9/18 16:00,Seattle,Paris
+UA3897,11/9/18 22:34,Chicago,Seattle
+UA4752,11/9/18 22:43,Cancun,Chicago
+UA5102,11/9/18 23:04,Orlando,Cancun
+UA5401,11/10/18 03:12,Shanghai,Orlando
+UA5590,11/10/18 09:22,Boston,Shanghai
+UA5788,11/10/18 10:04,New York,Boston
+UA6722,11/10/18 13:20,Tokyo,Boston
+UA7078,11/10/18 13:38,Chicago,New York
+UA7103,11/10/18 15:05,Cancun,Tokyo
+UA7202,11/10/18 19:23,Orlando,Toronto
+UA7578,11/11/18 04:20,Toronto,London
+UA7654,11/11/18 07:55,London,Paris
+UA8029,11/11/18 08:41,Paris,Seattle
+UA8277,11/11/18 11:56,Seattle,Chicago
+UA8315,11/11/18 17:25,Chicago,Cancun
+UA8317,11/11/18 18:12,Chicago,Orlando
+UA8422,11/11/18 20:13,Cancun,Toronto
+UA8509,11/12/18 02:23,Orlando,London
+UA8518,11/12/18 02:56,Shanghai,Paris
+UA8552,11/12/18 03:09,Boston,Seattle
+UA9597,11/12/18 05:01,New York,Boston
+UA9798,11/12/18 08:01,Tokyo,Shanghai
+UA9818,11/12/18 11:09,Toronto,Boston
+UA9887,11/12/18 12:43,London,New York
+AA0102,11/12/18 16:41,Paris,Tokyo
+AA1350,11/12/18 17:51,Seattle,Toronto
+AA1387,11/12/18 23:54,Chicago,London
+AA1388,11/13/18 03:12,Cancun,Paris
+AA1587,11/13/18 07:54,Orlando,Seattle
+AA2144,11/13/18 11:55,Toronto,Chicago
+AA2150,11/13/18 12:33,London,Cancun
+AA2166,11/13/18 13:49,Paris,Orlando
+AA2331,11/13/18 15:43,Seattle,Shanghai
+AA3809,11/13/18 17:18,Cancun,Boston
+AA4103,11/14/18 00:09,Orlando,Seattle
+AA4527,11/14/18 00:20,Shanghai,Chicago
+AA4539,11/14/18 03:42,Boston,Cancun
+AA4713,11/14/18 04:23,New York,Orlando
+AA4780,11/14/18 04:55,Tokyo,Shanghai
+AA4793,11/14/18 08:42,Chicago,Boston
+AA4986,11/14/18 11:16,Cancun,New York
+AA5247,11/14/18 16:05,Orlando,Tokyo
+AA5394,11/14/18 17:35,Toronto,Seattle
+AA5486,11/14/18 19:20,London,Boston
+AA5748,11/14/18 19:54,Paris,Boston
+AA6161,11/14/18 20:34,Seattle,Orlando
+AA6699,11/14/18 21:03,Chicago,Boston
+AA6834,11/14/18 23:49,Chicago,Shanghai
+AA6836,11/14/18 23:54,Cancun,Chicago
+AA7390,11/15/18 01:24,Orlando,Cancun
+AA7869,11/15/18 03:42,Shanghai,Orlando
+AA8510,11/15/18 18:33,Boston,Toronto
+AA8794,11/15/18 21:14,New York,London
+AA9002,11/16/18 03:31,Tokyo,Paris
+AA9019,11/16/18 09:21,Toronto,Seattle
+AA9527,11/16/18 09:33,London,Boston
+AA9594,11/16/18 09:39,Paris,Shanghai
+AA9778,11/16/18 09:45,Seattle,Boston
+DL0017,11/16/18 10:07,Chicago,New York
+DL1134,11/16/18 11:06,Cancun,Tokyo
+DL1145,11/16/18 13:31,Orlando,Toronto
+DL1338,11/16/18 13:41,Tokyo,London
+DL1977,11/16/18 17:09,Toronto,Paris
+DL2110,11/16/18 18:07,London,Seattle
+DL3397,11/16/18 19:21,Paris,Chicago
+DL4442,11/17/18 04:27,Seattle,Cancun
+DL4654,11/17/18 04:28,Chicago,Orlando
+DL4957,11/17/18 07:28,Cancun,Shanghai
+DL5050,11/17/18 09:25,Orlando,Tokyo
+DL5169,11/17/18 11:07,Toronto,Cancun
+DL5223,11/17/18 14:43,London,Orlando
+DL5719,11/17/18 17:45,Paris,Toronto
+DL5991,11/17/18 21:21,Seattle,Cancun
+DL6129,11/17/18 22:21,Cancun,Chicago
+DL6459,11/18/18 05:53,Orlando,Cancun
+UA6603,11/18/18 07:11,Shanghai,Orlando
+DL6976,11/18/18 11:34,Boston,Toronto
+DL7014,11/18/18 14:31,New York,London
+DL7174,11/18/18 18:38,Tokyo,Paris
+DL7422,11/18/18 20:00,Chicago,Seattle
+DL8057,11/19/18 10:04,Cancun,London
+DL8157,11/19/18 12:16,Orlando,London
+DL8450,11/19/18 12:31,Toronto,Orlando
+DL8485,11/19/18 22:33,London,Toronto
+DL8776,11/19/18 23:04,Cancun,London
+DL9115,11/20/18 08:14,Orlando,Cancun
+DL9731,11/20/18 18:45,Shanghai,Orlando
+DL8117,11/20/18 18:46,Boston,Shanghai
+UA0648,11/20/18 20:18,New York,Boston
+UA0657,11/21/18 00:47,Tokyo,New York
+UA1477,11/21/18 01:03,Chicago,Tokyo
+UA1736,11/21/18 04:14,Cancun,Tokyo
+UA2162,11/21/18 04:41,Orlando,Paris
+UA2220,11/21/18 08:34,Seattle,Orlando
+UA2263,11/21/18 12:02,Chicago,Cancun
+UA2305,11/21/18 13:14,Cancun,Orlando
+UA2447,11/21/18 13:22,Orlando,Shanghai
+UA2574,11/21/18 13:40,Toronto,Boston
+UA3654,11/21/18 14:27,London,New York
+UA3879,11/21/18 19:26,Paris,Tokyo
+UA3897,11/21/18 19:59,Seattle,Chicago
+UA4752,11/21/18 20:08,Cancun,Orlando
+UA5102,11/22/18 02:01,Orlando,Cancun
+UA5401,11/22/18 04:39,Shanghai,Toronto
+UA5590,11/22/18 06:10,Boston,London
+UA5788,11/22/18 11:32,New York,Cancun
+UA6722,11/22/18 11:33,Tokyo,Orlando
+UA7078,11/22/18 11:55,Chicago,Shanghai
+UA7103,11/22/18 11:59,Cancun,Boston
+UA7202,11/22/18 15:40,Orlando,New York
+UA7578,11/22/18 16:18,Toronto,Tokyo
+UA7654,11/22/18 20:53,London,Chicago
+UA8029,11/22/18 23:34,Cancun,Toronto
+UA8277,11/23/18 01:40,Orlando,New York
+UA8315,11/23/18 03:24,Shanghai,Toronto
+UA8317,11/23/18 11:00,Boston,London
+UA8422,11/23/18 17:47,New York,Paris
+UA8509,11/23/18 19:45,Tokyo,Seattle
+UA8518,11/24/18 02:37,Toronto,Cancun
+UA8552,11/24/18 04:33,London,Orlando
+UA9597,11/24/18 04:58,Paris,Shanghai
+UA9798,11/24/18 06:03,Seattle,Boston
+UA9818,11/24/18 08:13,Chicago,New York
+UA9887,11/24/18 08:28,Cancun,Tokyo
+AA0102,11/24/18 10:43,Orlando,Chicago
+AA1350,11/24/18 11:36,Shanghai,Cancun
+AA1387,11/24/18 12:41,Boston,Orlando
+AA1388,11/24/18 13:16,New York,Toronto
+AA1587,11/24/18 15:36,Tokyo,London
+AA2144,11/24/18 15:49,Toronto,Cancun
+AA2150,11/24/18 20:41,London,Orlando
+AA2166,11/24/18 21:44,Paris,Shanghai
+AA2331,11/24/18 22:50,Seattle,Boston
+AA3809,11/25/18 11:31,Chicago,New York
+AA4103,11/25/18 15:43,Cancun,Tokyo
+AA4527,11/25/18 16:18,Orlando,Toronto
+AA4539,11/25/18 16:21,Shanghai,London
+AA4713,11/25/18 17:23,Boston,Paris
+AA4780,11/25/18 18:26,New York,Seattle
+AA4793,11/25/18 20:31,Tokyo,New York
+AA4986,11/26/18 00:18,Toronto,Tokyo
+AA5247,11/26/18 05:31,London,Toronto
+AA5394,11/26/18 06:08,Paris,London
+AA5486,11/26/18 06:45,Seattle,Paris
+AA5748,11/26/18 08:47,Chicago,Seattle
+AA6161,11/26/18 13:46,Cancun,Chicago
+AA6699,11/26/18 14:31,Orlando,Cancun
+AA6834,11/26/18 21:26,Toronto,Orlando
+AA6836,11/26/18 23:40,London,Toronto
+AA7390,11/27/18 05:12,Paris,London
+AA7869,11/27/18 06:38,Seattle,Paris
+AA8510,11/27/18 13:00,Chicago,Seattle
+AA8794,11/27/18 17:41,Cancun,Chicago
+AA9002,11/27/18 22:46,Orlando,Cancun
+AA9019,11/28/18 08:06,Shanghai,Orlando
+AA9527,11/28/18 12:07,Boston,Shanghai
+AA9594,11/28/18 13:14,New York,Boston
+AA9778,11/28/18 16:27,Tokyo,New York
+DL0017,11/28/18 22:56,Toronto,Tokyo
+DL1134,11/29/18 00:06,London,Toronto
+DL1145,11/29/18 00:53,Paris,London
+DL1338,11/29/18 02:01,Seattle,Paris
+DL1977,11/29/18 03:09,Chicago,Seattle
+DL2110,11/29/18 08:02,Cancun,Orlando
+DL3397,11/29/18 11:11,Orlando,Cancun
+DL4442,11/29/18 15:03,Shanghai,Orlando
+DL4654,11/29/18 17:54,Boston,Shanghai
+DL4957,11/29/18 21:21,New York,Boston
+DL5050,11/29/18 22:06,Tokyo,New York
+DL5169,11/29/18 22:46,Toronto,Tokyo
+DL5223,11/29/18 23:51,London,Toronto
+DL5719,11/30/18 08:09,Paris,London
+DL5991,11/30/18 10:31,Seattle,Paris
+DL6129,11/30/18 14:49,Chicago,Seattle
+DL6459,11/30/18 17:18,Cancun,Chicago
+UA6603,11/30/18 23:52,Orlando,Cancun
+DL6976,12/1/18 04:22,Shanghai,Orlando
+DL7014,12/1/18 07:58,Boston,Shanghai
+DL7174,12/1/18 09:21,New York,Boston
+DL7422,12/1/18 09:37,Tokyo,New York
+DL8057,12/1/18 14:38,Toronto,Tokyo
+DL8157,12/1/18 16:01,London,Toronto
+DL8450,12/1/18 17:58,Paris,London
+DL8485,12/2/18 04:41,Seattle,Paris
+DL8776,12/2/18 05:04,Chicago,Seattle
+DL9115,12/2/18 06:15,Cancun,Toronto
+DL9731,12/2/18 06:51,Orlando,London
+DL8117,12/2/18 13:01,Toronto,Paris
+UA0648,12/2/18 17:04,London,Seattle
+UA0657,12/2/18 19:05,Paris,Chicago
+UA1477,12/2/18 20:07,Seattle,Cancun
+UA1736,12/2/18 20:31,Chicago,Orlando
+UA2162,12/3/18 02:57,Cancun,Chicago
+UA2220,12/3/18 04:02,Orlando,Cancun
+UA2263,12/3/18 10:43,Chicago,Orlando
+UA2305,12/3/18 11:21,Cancun,Shanghai
+UA2447,12/3/18 11:57,Orlando,Boston
+UA2574,12/3/18 12:23,Shanghai,New York
+UA3654,12/3/18 15:51,Boston,Tokyo
+UA3879,12/3/18 17:19,New York,Toronto
+UA3897,12/3/18 22:25,Tokyo,London
+UA4752,12/4/18 01:29,Toronto,Paris
+UA5102,12/4/18 05:09,London,Seattle
+UA5401,12/4/18 05:17,Paris,Chicago
+UA5590,12/4/18 05:40,Seattle,Cancun
+UA5788,12/4/18 05:43,Chicago,Orlando
+UA6722,12/4/18 07:23,Cancun,Toronto
+UA7078,12/4/18 09:12,Orlando,London
+UA7103,12/4/18 11:03,Toronto,Paris
+UA7202,12/4/18 12:45,London,Seattle
+UA7578,12/4/18 13:25,Paris,Cancun
+UA7654,12/4/18 13:51,Seattle,Orlando
+UA8029,12/4/18 14:12,Cancun,Shanghai
+UA8277,12/4/18 14:15,Orlando,Boston
+UA8315,12/4/18 16:14,Shanghai,New York
+UA8317,12/4/18 17:50,Boston,Tokyo
+UA8422,12/4/18 18:06,New York,Chicago
+UA8509,12/4/18 21:56,Tokyo,Cancun
+UA8518,12/5/18 00:15,Chicago,Orlando
+UA8552,12/5/18 02:11,Cancun,Toronto
+UA9597,12/5/18 02:22,Orlando,London
+UA9798,12/5/18 04:12,Toronto,Paris
+UA9818,12/5/18 08:46,London,Seattle
+UA9887,12/5/18 10:04,Paris,Chicago
+AA0102,12/5/18 15:28,Seattle,Chicago
+AA1350,12/5/18 20:25,Chicago,Cancun
+AA1387,12/5/18 21:43,Chicago,Orlando
+AA1388,12/6/18 06:31,Cancun,Shanghai
+AA1587,12/6/18 06:51,Orlando,Boston
+AA2144,12/6/18 15:54,Shanghai,London
+AA2150,12/6/18 15:55,Boston,Paris
+AA2166,12/6/18 19:19,New York,Seattle
+AA2331,12/6/18 19:59,Tokyo,Chicago
+AA3809,12/6/18 22:02,Toronto,Cancun
+AA4103,12/7/18 04:37,London,Orlando
+AA4527,12/7/18 05:40,Paris,Tokyo
+AA4539,12/7/18 07:04,Seattle,Toronto
+AA4713,12/7/18 08:17,Chicago,London
+AA4780,12/7/18 10:19,Cancun,Paris
+AA4793,12/7/18 14:02,Orlando,Seattle
+AA4986,12/7/18 16:19,Tokyo,Chicago
+AA5247,12/7/18 18:01,Toronto,Cancun
+AA5394,12/7/18 21:49,London,Orlando
+AA5486,12/8/18 04:30,Paris,Toronto
+AA5748,12/8/18 15:14,Seattle,London
+AA6161,12/8/18 17:58,Chicago,Paris
+AA6699,12/8/18 21:55,Cancun,Seattle
+AA6834,12/8/18 22:27,Orlando,Cancun
+AA6836,12/9/18 01:40,Toronto,Orlando
+AA7390,12/9/18 05:58,London,Shanghai
+AA7869,12/9/18 09:39,Paris,Boston
+AA8510,12/9/18 10:03,Seattle,New York
+AA8794,12/9/18 10:57,Cancun,Tokyo
+AA9002,12/9/18 11:03,Orlando,Chicago
+AA9019,12/9/18 11:47,Shanghai,Orlando
+AA9527,12/9/18 15:37,Boston,Shanghai
+AA9594,12/9/18 20:52,New York,Boston
+AA9778,12/10/18 00:14,Tokyo,New York
+DL0017,12/10/18 01:46,Chicago,Tokyo
+DL1134,12/10/18 05:31,Cancun,Chicago
+DL1145,12/10/18 05:42,Orlando,Cancun
+DL1338,12/10/18 07:04,Toronto,Orlando
+DL1977,12/10/18 07:36,London,Toronto
+DL2110,12/10/18 10:31,Cancun,London
+DL3397,12/10/18 19:37,Orlando,Cancun
+DL4442,12/10/18 21:28,Shanghai,Orlando
+DL4654,12/11/18 02:29,Boston,Shanghai
+DL4957,12/11/18 04:45,New York,Boston
+DL5050,12/11/18 15:32,Tokyo,New York
+DL5169,12/11/18 15:55,Chicago,Tokyo
+DL5223,12/11/18 16:02,Cancun,Chicago
+DL5719,12/11/18 17:10,Orlando,Cancun
+DL5991,12/11/18 17:40,Seattle,Orlando
+DL6129,12/11/18 18:15,Chicago,Seattle
+DL6459,12/11/18 23:25,Cancun,Chicago
+UA6603,12/12/18 00:16,Orlando,Cancun
+DL6976,12/12/18 00:21,Toronto,Orlando
+DL7014,12/12/18 00:46,London,Toronto
+DL7174,12/12/18 06:59,Paris,Chicago
+DL7422,12/12/18 07:58,Seattle,Cancun
+DL8057,12/12/18 11:56,Cancun,Orlando
+DL8157,12/12/18 13:45,Orlando,Toronto
+DL8450,12/12/18 14:19,Shanghai,London
+DL8485,12/12/18 15:34,Boston,Paris
+DL8776,12/12/18 23:52,New York,Seattle
+DL9115,12/13/18 02:07,Tokyo,Cancun
+DL9731,12/13/18 05:23,Chicago,Orlando
+DL8117,12/13/18 08:33,Cancun,Shanghai
+UA0648,12/13/18 10:29,Orlando,Boston
+UA0657,12/13/18 14:30,Toronto,New York
+UA1477,12/13/18 22:20,London,Tokyo
+UA1736,12/13/18 23:02,Cancun,Chicago
+UA2162,12/14/18 00:04,Orlando,Cancun
+UA2220,12/14/18 06:52,Shanghai,Orlando
+UA2263,12/14/18 07:25,Boston,Toronto
+UA2305,12/14/18 07:49,New York,London
+UA2447,12/14/18 09:15,Tokyo,Cancun
+UA2574,12/14/18 09:45,Toronto,Orlando
+UA3654,12/14/18 10:10,London,Shanghai
+UA3879,12/14/18 18:53,Paris,Boston
+UA3897,12/15/18 00:19,Seattle,New York
+UA4752,12/15/18 00:25,Chicago,Tokyo
+UA5102,12/15/18 04:08,Cancun,Toronto
+UA5401,12/15/18 06:52,Orlando,London
+UA5590,12/15/18 12:49,Shanghai,Paris
+UA5788,12/15/18 14:48,Boston,Seattle
+UA6722,12/15/18 22:43,New York,Chicago
+UA7078,12/16/18 05:00,Tokyo,Cancun
+UA7103,12/16/18 05:11,Toronto,Orlando
+UA7202,12/16/18 14:29,London,Shanghai
+UA7578,12/16/18 15:27,Paris,Boston
+UA7654,12/16/18 15:44,Seattle,New York
+UA8029,12/16/18 17:46,Chicago,Tokyo
+UA8277,12/16/18 18:26,Cancun,Toronto
+UA8315,12/17/18 00:29,Orlando,London
+UA8317,12/17/18 01:20,Shanghai,Paris
+UA8422,12/17/18 01:52,Boston,Seattle
+UA8509,12/17/18 01:54,New York,Chicago
+UA8518,12/17/18 06:41,Tokyo,Cancun
+UA8552,12/17/18 10:16,Toronto,Orlando
+UA9597,12/17/18 18:07,London,Shanghai
+UA9798,12/17/18 23:26,Paris,Boston
+UA9818,12/17/18 23:44,Seattle,New York
+UA9887,12/18/18 01:43,Chicago,Tokyo
+AA0102,12/18/18 04:42,Cancun,Toronto
+AA1350,12/18/18 06:35,Orlando,London
+AA1387,12/18/18 08:40,Toronto,Paris
+AA1388,12/18/18 13:47,London,Seattle
+AA1587,12/18/18 20:25,Paris,Chicago
+AA2144,12/18/18 20:34,Seattle,Cancun
+AA2150,12/18/18 22:35,Chicago,Orlando
+AA2166,12/19/18 05:52,Cancun,Toronto
+AA2331,12/19/18 06:36,Orlando,London
+AA3809,12/19/18 10:06,Shanghai,Paris
+AA4103,12/19/18 10:25,Boston,Seattle
+AA4527,12/19/18 12:28,New York,Chicago
+AA4539,12/19/18 19:01,Tokyo,Cancun
+AA4713,12/19/18 19:12,Toronto,Orlando
+AA4780,12/19/18 21:05,London,Shanghai
+AA4793,12/20/18 03:06,Paris,Boston
+AA4986,12/20/18 05:48,Seattle,New York
+AA5247,12/20/18 08:12,Chicago,Tokyo
+AA5394,12/20/18 11:27,Cancun,Toronto
+AA5486,12/20/18 14:09,Orlando,London
+AA5748,12/20/18 14:46,Shanghai,Paris
+AA6161,12/20/18 18:27,Boston,Seattle
+AA6699,12/21/18 03:46,Seattle,Chicago
+AA6834,12/21/18 10:09,Chicago,Cancun
+AA6836,12/21/18 13:11,Cancun,Orlando
+AA7390,12/21/18 17:39,Orlando,Shanghai
+AA7869,12/21/18 20:20,Shanghai,Boston
+AA8510,12/21/18 20:43,Boston,Seattle
+AA8794,12/21/18 21:45,New York,Chicago
+AA9002,12/21/18 22:34,Tokyo,Cancun
+AA9019,12/22/18 01:47,Toronto,Orlando
+AA9527,12/22/18 07:35,London,Shanghai
+AA9594,12/22/18 10:06,Paris,Boston
+AA9778,12/22/18 11:02,Seattle,New York
+DL0017,12/22/18 14:53,Chicago,Tokyo
+DL1134,12/22/18 16:35,Cancun,Toronto
+DL1145,12/22/18 20:20,Orlando,London
+DL1338,12/22/18 22:24,Toronto,Paris
+DL1977,12/23/18 02:20,London,Seattle
+DL2110,12/23/18 09:14,Paris,Chicago
+DL3397,12/23/18 11:03,Seattle,Cancun
+DL4442,12/23/18 16:14,Chicago,Orlando
+DL4654,12/23/18 23:02,Cancun,Toronto
+DL4957,12/24/18 01:55,Orlando,London
+DL5050,12/24/18 05:12,London,Paris
+DL5169,12/24/18 11:21,Paris,Seattle
+DL5223,12/24/18 17:29,Seattle,Chicago
+DL5719,12/24/18 22:45,Cancun,Orlando
+DL5991,12/25/18 01:14,Orlando,Cancun
+DL6129,12/25/18 01:35,Shanghai,London
+DL6459,12/25/18 03:26,Boston,Paris
+UA6603,12/25/18 05:45,New York,Seattle
+DL6976,12/25/18 06:12,Tokyo,Cancun
+DL7014,12/25/18 14:48,Chicago,Orlando
+DL7174,12/25/18 20:21,Cancun,Shanghai
+DL7422,12/26/18 00:09,Orlando,Boston
+DL8057,12/26/18 01:53,Toronto,New York
+DL8157,12/26/18 16:46,London,Tokyo
+DL8450,12/26/18 19:38,Cancun,Chicago
+DL8485,12/26/18 21:25,Orlando,Cancun
+DL8776,12/26/18 21:43,Shanghai,Orlando
+DL9115,12/26/18 23:04,Boston,Orlando
+DL9731,12/27/18 03:09,New York,Toronto
+DL8117,12/27/18 03:57,Tokyo,London
+UA0648,12/27/18 04:54,Toronto,Cancun
+UA0657,12/27/18 08:52,London,Orlando
+UA1477,12/27/18 11:29,Paris,Shanghai
+UA1736,12/27/18 13:57,Seattle,Boston
+UA2162,12/27/18 19:10,Chicago,New York
+UA2220,12/28/18 00:45,Cancun,Tokyo
+UA2263,12/28/18 04:09,Orlando,Toronto
+UA2305,12/28/18 11:08,Shanghai,London
+UA2447,12/28/18 16:32,Boston,Paris
+UA2574,12/28/18 18:33,New York,Seattle
+UA3654,12/28/18 22:42,Tokyo,Chicago
+UA3879,12/28/18 23:33,Toronto,Cancun
+UA3897,12/29/18 00:46,London,Orlando
+UA4752,12/29/18 01:29,Paris,Shanghai
+UA5102,12/29/18 02:22,Seattle,Cancun
+UA5401,12/29/18 04:58,Chicago,Orlando
+UA5590,12/29/18 05:27,Cancun,Shanghai
+UA5788,12/29/18 06:24,Orlando,Boston
+UA6722,12/29/18 06:27,Shanghai,New York
+UA7078,12/29/18 07:46,Boston,Tokyo
+UA7103,12/29/18 09:03,New York,Toronto
+UA7202,12/29/18 12:25,Tokyo,London
+UA7578,12/29/18 17:07,Toronto,Paris
+UA7654,12/29/18 18:45,London,Seattle
+UA8029,12/29/18 20:46,Paris,Chicago
+UA8277,12/29/18 20:56,Seattle,Cancun
+UA8315,12/30/18 00:47,Chicago,Orlando
+UA8317,12/30/18 07:15,Cancun,Shanghai
+UA8422,12/30/18 08:33,Orlando,Boston
+UA8509,12/30/18 11:20,Toronto,New York
+UA8518,12/30/18 11:39,London,Tokyo
+UA8552,12/30/18 12:26,Paris,Toronto
+UA9597,12/30/18 14:36,Seattle,London
+UA9798,12/30/18 16:15,Chicago,Paris
+UA9818,12/30/18 16:25,Cancun,Seattle
+UA9887,12/30/18 19:30,Orlando,Seattle
